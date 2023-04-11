@@ -1,0 +1,6 @@
+your lab-2 practice
+Practice Problems
+
+1.	Find a root for the equation x3 – 3x + 1 = 0 using the false position method and correct it to three decimal places with three iterations.
+
+2.	Find the root correct to two decimal places of the equation xex = cos x, using the regula falsi method.
